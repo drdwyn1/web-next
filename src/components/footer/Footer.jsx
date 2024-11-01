@@ -20,17 +20,23 @@ function Footer() {
         kuchh email pe🥹🥹, bs khatam ho hi gaya bs ek final submit plss🥹
       </h1>
       <h1>
-        You said ki bahut salo se B'day celebrate ni kiya ya fir it never felt like ki B'day hai
+        You said ki bahut salo se B'day never felt like ki B'day hai
       </h1>
       <h1>
         So, I hope this way of wishing you, would have made you feel special and a bit annoyed too🥹
       </h1>
       <h1>
-         So.. Chholi fol that❤️🥹
+         So.. Chholi fol that❤️🥹... Also ik tmhare sir ka drd ab dheere dheere bdh rha hoga... uske liye bhi sorry
+      </h1>
+      <h1>
+        But yrr tere B'day pe itna krna bnta h yr ab door h to..
       </h1>
       <h1>
         Click once... wait for a minute and then click again... It's Done, check
         your mail!!!❤️
+      </h1>
+      <h1>
+        Aur ni aye to 3 4 dafe click kr dena but tu mail dekhe bina ni ja rhi🥹🥹
       </h1>
       <button
         onClick={handleClick}
