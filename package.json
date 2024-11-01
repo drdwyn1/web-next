@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tabler/icons-react": "^3.19.0",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.5.0",
+    "axios": "^1.7.7",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.8.0",
+    "my-panda": "file:",
+    "next": "14.2.13",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.13"
+    "react-text-transition": "^3.1.0",
+    "tailwind-merge": "^2.5.2"
   },
   "devDependencies": {
     "postcss": "^8",
